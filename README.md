@@ -68,5 +68,5 @@ The flow highlights how performance varies department-wise, with IT and Sales do
 Business Impact: This dashboard provides leaders with a clear view of workforce distribution, salaries, and performance, enabling data-driven decisions around talent management. For example, IT and Sales hold the largest share of employees and highest salaries, highlighting where the majority of investment lies. By monitoring status trends (active vs. resigned/terminated) and work modes, businesses can identify retention risks, optimize workforce allocation, and design policies that improve employee satisfaction. Overall, the insights help in balancing costs, improving performance, and strengthening workforce planning.
 
 6. Screenshots/Demos
-   Dashboard preview: https://github.com/anushagc04-pbi/Power-bi-employee-report/blob/main/Snapshot%20Of%20The%20Employee%20Report.png
+   ![Dashboard preview](https://github.com/anushagc04-pbi/Power-bi-employee-report/blob/main/Snapshot%20Of%20The%20Employee%20Report.png)
 
