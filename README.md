@@ -32,15 +32,15 @@ These KPIs give a quick snapshot of workforce size, performance, and compensatio
 
 1. Left Section (with Bookmark Buttons)
 This section is interactive, allowing you to toggle between three views using bookmarks:
-By Department (Horizontal Bar Chart)
+i.By Department (Horizontal Bar Chart)
 Shows the employee distribution by department.
 IT has the highest count (0.6M), followed by Sales (0.4M) and Operations (0.3M).
 R&D has the least (~0.1M).
-By WorkMode (Donut Chart)
+ii.By WorkMode (Donut Chart)
 Displays employees by their working mode (e.g., On-site, Remote, Hybrid).
 Provides a quick proportional view of workforce distribution across work arrangements.
 Useful to understand workplace flexibility trends.
-By Status (Column Chart)
+iii.By Status (Column Chart)
 Shows employee counts by status (Active, Resigned, Retired, Terminated).
 Helps track attrition and workforce stability.
 Likely shows that the majority are Active, while the other categories (Resigned, Retired, Terminated) are much smaller.
