@@ -56,7 +56,7 @@ Shows the breakdown of employees in each department by status: Active, Resigned,
 IT and Sales have the highest number of active employees.
 Departments like Finance, Marketing, and Operations also show notable activity but smaller in size compared to IT & Sales.
 4. Bottom Section
-Performance Rate by Department (Sankey Chart)
+Performance Rate by Department (Ribbon Chart)
 Visualizes how performance ratings (1–5) are distributed across departments.
 IT and Sales have a higher count of employees across all ratings.
 Ratings gradually reduce in smaller departments like HR and R&D.
