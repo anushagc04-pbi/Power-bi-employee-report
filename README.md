@@ -32,30 +32,33 @@ These KPIs give a quick snapshot of workforce size, performance, and compensatio
 
 1. Left Section (with Bookmark Buttons)
 This section is interactive, allowing you to toggle between three views using bookmarks:
+
 i.By Department (Horizontal Bar Chart)
 Shows the employee distribution by department.
 IT has the highest count (0.6M), followed by Sales (0.4M) and Operations (0.3M).
 R&D has the least (~0.1M).
+
 ii.By WorkMode (Donut Chart)
 Displays employees by their working mode (e.g., On-site, Remote, Hybrid).
 Provides a quick proportional view of workforce distribution across work arrangements.
 Useful to understand workplace flexibility trends.
+
 iii.By Status (Column Chart)
 Shows employee counts by status (Active, Resigned, Retired, Terminated).
 Helps track attrition and workforce stability.
 Likely shows that the majority are Active, while the other categories (Resigned, Retired, Terminated) are much smaller.
 
-2. Salary by Department (Bar Chart)
+3. Salary by Department (Bar Chart)
 Displays average/total salaries by department.
 IT leads with the highest salary (1.13M), followed by Finance (0.94M).
 HR has the lowest salary (0.74M).
 
-3. Right Section
+4. Right Section
 Count of Employees by Department and Status (Stacked Bar Chart)
 Shows the breakdown of employees in each department by status: Active, Resigned, Retired, Terminated.
 IT and Sales have the highest number of active employees.
 Departments like Finance, Marketing, and Operations also show notable activity but smaller in size compared to IT & Sales.
-4. Bottom Section
+5. Bottom Section
 Performance Rate by Department (Ribbon Chart)
 Visualizes how performance ratings (1–5) are distributed across departments.
 IT and Sales have a higher count of employees across all ratings.
