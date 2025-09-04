@@ -5,26 +5,30 @@
 2. *Purpose*: This Power BI dashboard provides a comprehensive view of workforce distribution, salary trends, and employee performance across departments, locations, and work modes. It highlights key metrics such as average compensation, employee count, and performance ratings. The dashboard enables HR and leadership teams to monitor workforce health, identify performance gaps, and make data-driven decisions to optimize employee engagement and organizational growth.
    
 3. *Tech Stack* :
+   
 a. Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.
 b. Power Query (M Language) – Performed data cleaning, transformation, and shaping before loading into the model.
 c. DAX (Data Analysis Expressions) – Created calculated columns,measures.
 d. Power BI Visuals – Designed charts and KPIs for trend analysis.
 
-4. *Data Source* :
+5. *Data Source* :
    https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
 
-5. *Business Problem*:
+6. *Business Problem*:
 Organizations often struggle to gain a clear, consolidated view of their workforce data. Information about employee distribution, salary structures, and performance ratings is usually scattered across systems, making it difficult for HR and management to identify trends, ensure pay equity, monitor performance, and optimize resource allocation. This lack of visibility can lead to inefficiencies, disengagement, and missed opportunities for improving workforce productivity.
 
 *Goal of the Dashboard*:
 The goal of this dashboard is to provide a centralized, interactive view of employee data, enabling leadership and HR teams to:
+
 i. Track workforce distribution by department, location, and work mode.
 ii. Monitor salary trends and performance ratings at both overall and departmental levels.
 iii. Identify workforce imbalances, pay disparities, and performance gaps.
 iv. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
 
 6. *Walkthrough of the key visuals*:
+   
    i. *Header KPIs (Top Row)*
+   
     a. Total Employees: 2.0M
     b. Average Rating: 3.0
     c. Average Salary: 0.9M
