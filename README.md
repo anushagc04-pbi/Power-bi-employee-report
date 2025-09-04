@@ -24,14 +24,14 @@ iii. Identify workforce imbalances, pay disparities, and performance gaps.
 iv. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
 
 6. *Walkthrough of the key visuals*:
- 1. *Header KPIs (Top Row)*
+    1. *Header KPIs (Top Row)*
    i. Total Employees: 2.0M
    ii. Average Rating: 3.0
   iii. Average Salary: 0.9M
 These KPIs give a quick snapshot of workforce size, performance, and compensation.
 
- 2. Left Section- *Bookmarks & Buttons*
-This section is interactive, allowing you to toggle between three views using bookmarks:
+  2. Left Section- *Bookmarks & Buttons*
+ This section is interactive, allowing you to toggle between three views using bookmarks:
 
 i.By Department (Horizontal Bar Chart)
 Shows the employee distribution by department.
