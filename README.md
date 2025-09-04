@@ -6,10 +6,13 @@
    
 3. *Tech Stack* :
    
-a. Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.
-b. Power Query (M Language) – Performed data cleaning, transformation, and shaping before loading into the model.
-c. DAX (Data Analysis Expressions) – Created calculated columns,measures.
-d. Power BI Visuals – Designed charts and KPIs for trend analysis.
+   a. Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.
+
+   b. Power Query (M Language) – Performed data cleaning, transformation, and shaping before loading into the model.
+
+   c. DAX (Data Analysis Expressions) – Created calculated columns,measures.
+
+   d. Power BI Visuals – Designed charts and KPIs for trend analysis.
 
 5. *Data Source* :
    https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
@@ -20,18 +23,24 @@ Organizations often struggle to gain a clear, consolidated view of their workfor
 *Goal of the Dashboard*:
 The goal of this dashboard is to provide a centralized, interactive view of employee data, enabling leadership and HR teams to:
 
-i. Track workforce distribution by department, location, and work mode.
-ii. Monitor salary trends and performance ratings at both overall and departmental levels.
-iii. Identify workforce imbalances, pay disparities, and performance gaps.
-iv. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
+  i. Track workforce distribution by department, location, and work mode.
+
+  ii. Monitor salary trends and performance ratings at both overall and departmental levels.
+  
+  iii. Identify workforce imbalances, pay disparities, and performance gaps.
+  
+  iv. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
 
 6. *Walkthrough of the key visuals*:
    
-   i. *Header KPIs (Top Row)*
+ i. *Header KPIs (Top Row)*
    
-    a. Total Employees: 2.0M
-    b. Average Rating: 3.0
-    c. Average Salary: 0.9M
+      a. Total Employees: 2.0M
+
+      b. Average Rating: 3.0
+
+      c. Average Salary: 0.9M
+
 These KPIs give a quick snapshot of workforce size, performance, and compensation.
 
   ii. Left Section- *Bookmarks & Buttons*
