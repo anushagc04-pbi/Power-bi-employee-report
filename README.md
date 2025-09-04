@@ -1,36 +1,36 @@
 # Power-bi-employee-report
-1. Project Title:
+1. *Project Title*:
    Workforce Analytics Dashboard – Interactive Power BI dashboard analyzing employee count, salary trends, work modes, and performance ratings across departments and locations.
 
-2. Purpose: This Power BI dashboard provides a comprehensive view of workforce distribution, salary trends, and employee performance across departments, locations, and work modes. It highlights key metrics such as average compensation, employee count, and performance ratings. The dashboard enables HR and leadership teams to monitor workforce health, identify performance gaps, and make data-driven decisions to optimize employee engagement and organizational growth.
+2. *Purpose*: This Power BI dashboard provides a comprehensive view of workforce distribution, salary trends, and employee performance across departments, locations, and work modes. It highlights key metrics such as average compensation, employee count, and performance ratings. The dashboard enables HR and leadership teams to monitor workforce health, identify performance gaps, and make data-driven decisions to optimize employee engagement and organizational growth.
    
-3. Tech Stack :
-Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.
-Power Query (M Language) – Performed data cleaning, transformation, and shaping before loading into the model.
-DAX (Data Analysis Expressions) – Created calculated columns,measures.
-Power BI Visuals – Designed charts and KPIs for trend analysis.
+3. *Tech Stack* :
+a. Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.
+b. Power Query (M Language) – Performed data cleaning, transformation, and shaping before loading into the model.
+c. DAX (Data Analysis Expressions) – Created calculated columns,measures.
+d. Power BI Visuals – Designed charts and KPIs for trend analysis.
 
-4. Data Source :
+4. *Data Source* :
    https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
 
-5. Business Problem:
+5. *Business Problem*:
 Organizations often struggle to gain a clear, consolidated view of their workforce data. Information about employee distribution, salary structures, and performance ratings is usually scattered across systems, making it difficult for HR and management to identify trends, ensure pay equity, monitor performance, and optimize resource allocation. This lack of visibility can lead to inefficiencies, disengagement, and missed opportunities for improving workforce productivity.
 
-Goal of the Dashboard:
-i. The goal of this dashboard is to provide a centralized, interactive view of employee data, enabling leadership and HR teams to:
-ii. Track workforce distribution by department, location, and work mode.
-iii. Monitor salary trends and performance ratings at both overall and departmental levels.
-iv. Identify workforce imbalances, pay disparities, and performance gaps.
-v. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
+*Goal of the Dashboard*:
+The goal of this dashboard is to provide a centralized, interactive view of employee data, enabling leadership and HR teams to:
+i. Track workforce distribution by department, location, and work mode.
+ii. Monitor salary trends and performance ratings at both overall and departmental levels.
+iii. Identify workforce imbalances, pay disparities, and performance gaps.
+iv. Support data-driven decisions that enhance employee engagement, efficiency, and organizational growth.
 
-Walkthrough of the key visuals:
-Header KPIs (Top Row)
- Total Employees: 2.0M
- Average Rating: 3.0
- Average Salary: 0.9M
+6. *Walkthrough of the key visuals*:
+ 1. *Header KPIs (Top Row)*
+   i. Total Employees: 2.0M
+   ii. Average Rating: 3.0
+  iii. Average Salary: 0.9M
 These KPIs give a quick snapshot of workforce size, performance, and compensation.
 
-1. Left Section (with Bookmark Buttons)
+ 2. Left Section- *Bookmarks & Buttons*
 This section is interactive, allowing you to toggle between three views using bookmarks:
 
 i.By Department (Horizontal Bar Chart)
@@ -48,18 +48,19 @@ Shows employee counts by status (Active, Resigned, Retired, Terminated).
 Helps track attrition and workforce stability.
 Likely shows that the majority are Active, while the other categories (Resigned, Retired, Terminated) are much smaller.
 
-3. Salary by Department (Bar Chart)
+ 3. *Salary by Department (Bar Chart)*
 Displays average/total salaries by department.
 IT leads with the highest salary (1.13M), followed by Finance (0.94M).
 HR has the lowest salary (0.74M).
 
 4. Right Section
-Count of Employees by Department and Status (Stacked Bar Chart)
+*Count of Employees by Department and Status (Stacked Bar Chart)*
 Shows the breakdown of employees in each department by status: Active, Resigned, Retired, Terminated.
 IT and Sales have the highest number of active employees.
 Departments like Finance, Marketing, and Operations also show notable activity but smaller in size compared to IT & Sales.
-5. Bottom Section
-Performance Rate by Department (Ribbon Chart)
+
+6. Bottom Section
+*Performance Rate by Department (Ribbon Chart)*
 Visualizes how performance ratings (1–5) are distributed across departments.
 IT and Sales have a higher count of employees across all ratings.
 Ratings gradually reduce in smaller departments like HR and R&D.
